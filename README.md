@@ -4,6 +4,10 @@
 
 Hearthstone Pack Opening Simulator Plugin Based on BepInEx.
 
+### Notice
+
+**If you configure it correctly, fake pack opening will not consume anything. Meanwhile, your online friends will also see related legend cards results (fake message).**
+
 ### How to Use
 
 `F7` Check plugin status. And it is recommended to use [BepInExConfigManager.Mono](https://github.com/sinai-dev/BepInExConfigManager/releases) to manage settings.
